@@ -52,8 +52,8 @@ Work's history
 ## 実績
 * MMORPGのゲームサーバーP
 * MMORPGのゲームサーバーW
-* PC向けWEBブラウザゲーム
-* 携帯向けWEBブラウザゲーム
+* PC向けWEBブラウザゲーム(facebook)
+* 携帯向けWEBブラウザゲーム(mobage)
 
 ## 技術
 * 非同期通信プログラミング(Asynchronous Network Programming)
@@ -78,7 +78,8 @@ Work's history
 * 2年
 
 ## 実績
-* 携帯向けWEBブラウザゲーム
+* 携帯向けWEBブラウザゲーム(docomo/au/softbank)
+* 公式メニューページの作成
 * 社内SE
 
 ## 技術
