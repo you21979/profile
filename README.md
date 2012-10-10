@@ -1,8 +1,8 @@
 you21979's Profile
 =======
 ## URL
-http://twitter.com/you21979
-http://booklog.jp/users/you21979
+http://twitter.com/you21979  
+http://booklog.jp/users/you21979  
 
 ## 特色
 基本はプログラマだけどネットワーク機器やバックエンドサーバーなどもいじれる  
