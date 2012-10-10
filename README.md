@@ -135,8 +135,10 @@ APPサーバー上のメモリにユーザー情報を保持しないで毎回�
 ## カリキュラム
 * フローチャート
 * 一年目C言語
-* 二年目JAVA
+* 二年目JAVA（選択でMacromedia Director）
 * 企画とかならった気がするけど覚えてない
+* Adobe Dimension3Dで3Dモデリング
+* Adobe Illustrator/Photoshopで絵素材作成
 
 ## 卒業制作
 * HTMLでホームページを作成
