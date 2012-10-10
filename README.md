@@ -4,6 +4,9 @@ you21979's Profile
 http://twitter.com/you21979  
 http://booklog.jp/users/you21979  
 
+## watch
+http://b.hatena.ne.jp/you21979/
+
 ## 特色
 基本はプログラマだけどネットワーク機器やバックエンドサーバーなどもいじれる  
 いろいろなものを組み合わせて設計するのが得意  
