@@ -39,7 +39,6 @@ Work's history
 * UNITY
 * AS3
 * node.js
-* PHP
 * MYSQL
 * Redis
 * Jenkins
