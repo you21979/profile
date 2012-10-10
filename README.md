@@ -113,7 +113,7 @@ APPサーバー上のメモリにユーザー情報を保持しないで毎回�
 * PHP
 * MYSQL
 * Redis
- 
+* Jenkins
 
 
 
