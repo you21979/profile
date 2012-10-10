@@ -54,7 +54,7 @@ http://booklog.jp/users/you21979
 * ゲームプログラミング
 
 ### 構築インフラ
-* VPN
+* VPN(openvpn/ipsec)
 * Subversion / TRAC
 
 ### 環境
