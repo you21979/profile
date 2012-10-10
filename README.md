@@ -1,6 +1,5 @@
-profile
+you21979's Profile
 =======
-# you21979's Profile
 ## URL
 http://twitter.com/you21979
 http://booklog.jp/users/you21979
