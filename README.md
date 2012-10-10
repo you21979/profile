@@ -92,7 +92,7 @@ Work's history
 
 ## 環境
 * Linux
-* PHP/MYSQL/MEMCACHED/PERLBAL
+* APACHE/PHP/MYSQL/MEMCACHED/PERLBAL
 
 ## 備考や業界考察
 ロードバランサやファイアーウォールなどのネットワーク機器が高くて買えないが使う必要があったため  
