@@ -14,7 +14,10 @@ http://booklog.jp/users/you21979
 * 負荷分散
 * ドメイン駆動設計
 
-# history
+# Work's history
+## バイト
+* 本屋
+* 果物の出荷作業（梨）
 
 ## 証券業界
 ### 就業
