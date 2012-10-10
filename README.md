@@ -52,8 +52,9 @@ Work's history
 ## 実績
 * MMORPGのゲームサーバーP
 * MMORPGのゲームサーバーW
-* PC向けWEBブラウザゲーム(facebook)
+* PC向けWEBブラウザのゲームサーバー(facebook)
 * 携帯向けWEBブラウザゲーム(mobage)
+* Smartphone用ゲームのKPIツール(gree)
 
 ## 技術
 * 非同期通信プログラミング(Asynchronous Network Programming)
