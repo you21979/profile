@@ -31,7 +31,7 @@ Work's history
 
 # ○オンラインゲーム業界（デバイス問わず）
 ## 就業
-* 2012年現在
+* 2012年〜現在
 
 ## 環境
 * VMWARE ESXi
@@ -42,7 +42,6 @@ Work's history
 * MYSQL
 * Redis
 * Jenkins
-
 
 # ○オンラインゲーム業界（PC）
 ## 就業
@@ -101,6 +100,7 @@ node.jsが出たのでいじったら自分が仕事でC++で組んでるサー�
 * 携帯向けWEBブラウザゲーム(docomo/au/softbank)
 * 公式メニューページの作成
 * 社内SE
+* WEBサービス運用／運営
 
 ## 技術
 * WEBプログラミング
@@ -109,9 +109,11 @@ node.jsが出たのでいじったら自分が仕事でC++で組んでるサー�
 ## 構築インフラ
 * VPN(openvpn/ipsec)
 * Subversion / TRAC
+* データセンタ業務（ラックマウントとか配線）
+* ネットワーク構築
 
 ## 環境
-* Linux
+* Linux(debian/centos)
 * APACHE/PHP/MYSQL/MEMCACHED/PERLBAL
 
 ## 備考や業界考察
@@ -127,6 +129,7 @@ APPサーバー上のメモリにユーザー情報を保持しないで毎回�
 スポーツジム通いしてた。  
 World of Warcraftにはまる  
 ゲーム業界に入ったが以外にみんなオンラインゲームをやらないんだなと思った  
+debianを趣味で使い始める
 
 # ○証券業界
 ## 就業
@@ -146,7 +149,7 @@ World of Warcraftにはまる
 * WEBプログラミング
 
 ## 環境
-* LINUX/Solaris
+* LINUX(redhat/turbo)/Solaris
 * C : Socket CGI PROC
 * JAVA : Servlet and JNI
 * CSH
@@ -159,7 +162,7 @@ World of Warcraftにはまる
 自分でサービスを作って運営できる業界が面白そうに感じていた。  
 
 ## その他
-仕事でsolaris触ってたのでLinuxを趣味でいじりだす  
+仕事でsolaris触ってたのでLinux(kondara mnu/linux)を趣味でいじりだす  
 Age of EmpireのIとIIをircで遊んでいた  
 バルダーズゲートにはまる
 FinalFantasyXIにはまる  
