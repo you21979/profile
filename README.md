@@ -35,9 +35,9 @@ Work's history
 
 ## 環境
 * VMWARE ESXi / Linux
-* UNITY / AS3 / node.js
+* UNITY / AS3 / node.js / PHP / Python
 * MYSQL / Redis
-* Jenkins
+* Jenkins / Fabric / Ansible
 
 ## 実績
 * ブラウザゲーム向けクライアント設計＆ゲームサーバー（AS3+nodejs）
