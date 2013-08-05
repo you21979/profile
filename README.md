@@ -27,14 +27,20 @@ Work's history
 * TV録画サーバー
  - windows
 * 仮想化プロジェクト構築
- - VMWARE-SERVER
- - XEN
+ - VMWARE-SERVER(close)
+ - XEN(close)
  - KVM
  - VMWARE-ESXi
+ - GPUパススルー＋デスクトップ仮想化
+ - VPN(OPEN VPN)
+ - AMAZON EC2
 * ファイルサーバー
  - nas4free
  - zfs
  - iscsi
+* etc
+ - raspberry pi
+ - arduino
 
 # ○オンラインゲーム業界（デバイス問わず）
 ## 就業
