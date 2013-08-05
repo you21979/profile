@@ -34,14 +34,20 @@ Work's history
 * 2012年〜現在
 
 ## 環境
-* VMWARE ESXi
-* Linux
-* UNITY
-* AS3
-* node.js
-* MYSQL
-* Redis
+* VMWARE ESXi / Linux
+* UNITY / AS3 / node.js
+* MYSQL / Redis
 * Jenkins
+
+## 実績
+* ブラウザゲーム向けクライアント設計＆ゲームサーバー（AS3+nodejs）
+* スマートフォン向けクライアント設計＆ゲームサーバー（UNITY+PHP）
+
+## 技術
+* 非同期通信プログラミング(Asynchronous Network Programming)
+* クライアントアーキテクチャ設計
+* ゲームプログラミング
+* プロトコルジェネレータ
 
 # ○オンラインゲーム業界（PC）
 ## 就業
