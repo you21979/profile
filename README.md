@@ -25,9 +25,16 @@ Work's history
 
 # ○自宅プロジェクト
 * TV録画サーバー
-* 仮想化プロジェクトVMWARE-SERVER
-* 仮想化プロジェクトVMWARE-SERVER->XEN
-* 仮想化プロジェクトXEN->KVM
+ - windows
+* 仮想化プロジェクト構築
+ - VMWARE-SERVER
+ - XEN
+ - KVM
+ - VMWARE-ESXi
+* ファイルサーバー
+ - nas4free
+ - zfs
+ - iscsi
 
 # ○オンラインゲーム業界（デバイス問わず）
 ## 就業
