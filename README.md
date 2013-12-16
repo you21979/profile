@@ -84,7 +84,7 @@ Work's history
 * VMWARE ESXi / Linux
 * UNITY / AS3 / node.js / PHP / Python
 * MYSQL / Redis
-* Jenkins / Fabric / Ansible
+* Jenkins / Fabric / Ansible / gitlab / subversion
 
 ## 実績
 * ブラウザゲーム向けクライアント設計＆ゲームサーバー（AS3+nodejs）
@@ -145,7 +145,8 @@ League of Legendsをやりこんでました。MMORPGの戦闘から面白いと
 * C : VCE
 * C++ : VCE2 Squirrel
 * Python/Perl/PHP
-* MYSQL
+* MYSQL / PostgreSQL
+* subversion
 
 ## 備考や業界考察
 自分が入ったときはC言語でサーバーを組むのが主体だったが数年たったらC++が主流になった。  
@@ -194,6 +195,7 @@ node.jsが出たのでいじったら自分が仕事でC++で組んでるサー�
 ## 環境
 * Linux(debian/centos)
 * APACHE/PHP/MYSQL/MEMCACHED/PERLBAL
+* Subversion
 
 ## 備考や業界考察
 ロードバランサやファイアーウォールなどのネットワーク機器が高くて買えないが使う必要があったため  
@@ -233,6 +235,7 @@ debianを趣味で使い始める
 * JAVA : Servlet and JNI
 * CSH
 * ORACLE/SYBASE
+* CVS / SCCS
 
 ## 備考や業界考察
 株式の世界は大勢の人が必要だった場立ちの役割をコンピュータに置き換えた。  
