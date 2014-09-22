@@ -76,6 +76,9 @@ Work's history
 * etc
  - raspberry pi
  - arduino
+* 暗号通貨
+ - 裁定取引BOT
+ - モニタリングサイト運営 http://monagraph.com
 
 # ○オンラインゲーム業界（ブラウザ／スマートフォン）
 ## 就業
