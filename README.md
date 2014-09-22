@@ -79,6 +79,10 @@ Work's history
 * 暗号通貨
  - 裁定取引BOT
  - モニタリングサイト運営 http://monagraph.com
+* nodejsでライブラリ公開
+ - https://www.npmjs.org/package/munin-plugin
+ - https://www.npmjs.org/package/etwings
+ - https://www.npmjs.org/package/yahoo-currency
 
 # ○オンラインゲーム業界（ブラウザ／スマートフォン）
 ## 就業
