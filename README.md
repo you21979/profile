@@ -84,9 +84,26 @@ Work's history
  - https://www.npmjs.org/package/etwings
  - https://www.npmjs.org/package/yahoo-currency
 
+# ○仮想通貨業界
+## 個人事業
+* 2015年～
+
+## 環境
+* node.js
+* ripple(ripple-lib)
+* bitcoin(bitcore)
+
+## 実績
+* トレーディングボットの設計＆AI制作 (node.js)
+
+## 技術
+* トレーディング手法
+* 非同期通信プログラミング
+* websocketプログラミング
+
 # ○オンラインゲーム業界（ブラウザ／スマートフォン）
 ## 就業
-* 2012年〜現在
+* 2012年〜2014年
 
 ## 環境
 * VMWARE ESXi / Linux
