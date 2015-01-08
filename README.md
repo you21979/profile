@@ -94,7 +94,8 @@ Work's history
 * bitcoin(bitcore)
 
 ## 実績
-* トレーディングボットの設計＆AI制作 (node.js)
+* bitcoin取引所でのトレーディングボットの設計＆AI制作 (node.js)
+* rippleでのトレーディングボットの設計＆AI制作 (node.js)
 
 ## 技術
 * トレーディング手法
