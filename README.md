@@ -1,13 +1,19 @@
 you21979's Profile
 =======
-URL
+
+SNS
 ---
 http://twitter.com/you21979  
+https://www.facebook.com/yuki.akiyama.96
+
+興味対象
+--------
+http://b.hatena.ne.jp/you21979/
 http://booklog.jp/users/you21979  
 
-watch
------
-http://b.hatena.ne.jp/you21979/
+仕事の依頼
+----------
+http://crowdworks.jp/public/employees/11120  
 
 人生の目標
 ----------
