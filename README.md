@@ -8,7 +8,7 @@ https://www.facebook.com/yuki.akiyama.96
 
 興味対象
 --------
-http://b.hatena.ne.jp/you21979/
+http://b.hatena.ne.jp/you21979/  
 http://booklog.jp/users/you21979  
 
 仕事の依頼
