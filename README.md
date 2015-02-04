@@ -101,7 +101,16 @@ Work's history
 
 ## 実績
 * bitcoin取引所でのトレーディングボットの設計＆AI制作 (node.js)
+
+未公開
+
 * rippleでのトレーディングボットの設計＆AI制作 (node.js)
+
+技術的な部分のみ公開中
+
+フレームワーク( https://github.com/Lemmings/lemmings-ripple )
+
+ヘルパーライブラリ( https://github.com/you21979/node-ripple-usecase )
 
 ## 技術
 * トレーディング手法
