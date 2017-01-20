@@ -92,6 +92,7 @@ Work's history
 * 2015年～
 
 ## bitcoin企業
+* javascript programmer
 * server engineer
 * bitcoin engineer
 * 2015年〜
@@ -147,6 +148,7 @@ P2Pというテクノロジーはアーキテクチャーですから仕組み�
 # ○オンラインゲーム業界（ブラウザ／スマートフォン）
 ## 就業
 * 2012年〜2014年
+* javascript programmer
 * Server Engineer
 
 ## 環境
