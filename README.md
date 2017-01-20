@@ -76,7 +76,7 @@ Work's history
  - VPN(OPEN VPN)
  - AMAZON EC2
 * ファイルサーバー
- - nas4free
+ - nas4free or freenas
  - zfs
  - iscsi
 * etc
@@ -84,20 +84,22 @@ Work's history
  - arduino
 * 暗号通貨
  - 裁定取引BOT
- - モニタリングサイト運営 http://monagraph.com
 * nodejsでライブラリ公開
- - https://www.npmjs.org/package/munin-plugin
- - https://www.npmjs.org/package/etwings
- - https://www.npmjs.org/package/yahoo-currency
+ - https://www.npmjs.com/~you21979
 
 # ○仮想通貨業界
 ## 個人事業
 * 2015年～
 
+## bitcoin企業
+* server engineer
+* bitcoin engineer
+* 2015年〜
+
 ## 環境
 * node.js
 * ripple(ripple-lib)
-* bitcoin(bitcore)
+* bitcoin(bitcore-lib or bitcoinjs-lib)
 
 ## 実績
 
@@ -145,6 +147,7 @@ P2Pというテクノロジーはアーキテクチャーですから仕組み�
 # ○オンラインゲーム業界（ブラウザ／スマートフォン）
 ## 就業
 * 2012年〜2014年
+* Server Engineer
 
 ## 環境
 * VMWARE ESXi / Linux
@@ -191,6 +194,7 @@ League of Legendsをやりこんでました。MMORPGの戦闘から面白いと
 ## 就業
 * 2007-2012
 * 5年
+* Server Engineer
 
 ## 実績
 * MMORPGのゲームサーバーP
@@ -241,6 +245,7 @@ node.jsが出たのでいじったら自分が仕事でC++で組んでるサー�
 ## 就業
 * 2004-2006
 * 2年
+* Server Engineer
 
 ## 実績
 * 携帯向けWEBブラウザゲーム(docomo/au/softbank)
@@ -283,6 +288,7 @@ debianを趣味で使い始める
 * 1999-2004
 * 5年
 * 出向
+* Client and Server Programmer
 
 ## 実績
 * ラインハンドラーまわり（電文、FIXプロトコルなど）
